@@ -75,7 +75,7 @@
 <p class="text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4">@2020
 <a target="_blank" class="text-gray-600 ml-1" rel="noopener noreferrer" href="https://facebook.com">facebook</a>
 <a target="_blank" class="text-gray-600 ml-1" rel="noopener noreferrer" href="https://youtube.com">Youtube</a>
-<a target="_blank" class="text-gray-600 ml-1" rel="noopener noreferrer" href="https://github.com"></a>
+<a target="_blank" class="text-gray-600 ml-1" rel="noopener noreferrer" href="https://github.com">github</a>
 </p>
 <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
 <a class="text-gray-500">
