@@ -2,13 +2,14 @@
 <!DOCTYPE html>
 <html>
 <head>
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
 <title>pranit fitness</title>
 </head>
 
-<body style="background-color:RGB(240, 128, 128);">
+<body>
 
 
 <header class="text-gray-700 body-font">
@@ -40,22 +41,20 @@
 <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Before they sold out
 <br class="hidden lg:inline-block">readymade gluten
 </h1>
-<p class="mb-8 leading-relaxed">Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos </br> poke beard tote bag. Heirloom echo park mlkshk tote bag selvage hot chicken authentic </br> tumeric truffaut hexagon try-hard chambray.</p>  
+<p class="mb-8 leading-relaxed">Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. <br> Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.</p>  
 </div>
-</div>
-          
 <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-<img align="right" src="https://source.unsplash.com/720x600/?fitness,gym" alt="hero" class="object-cover object-center rounded">
+<img src="https://source.unsplash.com/720x600/?fitness,gym" alt="hero" class="object-cover object-center rounded">
 </div>
 </div>
 </section>
 <section class="text-gray-700 body-font">
 <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
 <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-<h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">If something stands between</br>you and your success, move it.
+<h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">If something stands between you and your success, move it.
 <br class="hidden lg:inline-block">Never be denied.
 </h1>
-<p class="mb-8 leading-relaxed">The last three or four reps is </br> what makes the muscle grow.</br>This area of pain divides a champion </br> from someone who is not a champion.
+<p class="mb-8 leading-relaxed">The last three or four reps is what makes the muscle grow.</br>This area of pain divides a champion from someone who is not a champion.
 </p>
 </div>    
 <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">

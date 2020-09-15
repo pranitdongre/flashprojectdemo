@@ -20,10 +20,10 @@
 		<td>Login Name</td><td><input type="text" name="loginName" required/></td>
 	</tr>
 	<tr>
-		<td>Password</td><td><input type="password" name="passwd" required/></td>
+		<td>Password</td><td><input type="password" name="password" required/></td>
 	</tr>	
 	<tr>
-		<td>Customer Name</td><td><input type="text" name="custName" required/></td>
+		<td>Customer Name</td><td><input type="text" name="CustomerName" required/></td>
 	</tr>
 	<tr>
 		<td>Gender</td>
@@ -38,7 +38,7 @@
 	</tr>
 	<tr>
 		<td>Address</td>
-		<td><textArea cols="20" rows="8" name="addr" required></textarea>
+		<td><textArea cols="20" rows="8" name="address" required></textarea>
 	</tr>
 	<tr>
 		<td>Mobile</td>
